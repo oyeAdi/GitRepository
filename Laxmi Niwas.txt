@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About LAXMI NIWAS</title>
+</head>
+<body>
+<h1>Laxmi Niwas</h1>
+<h2>Members of Laxmi Niwas</h2>
+<p>- SIVENDRA PRASAD SRIVASTAVA & LAXMI DEVI</p>
+<h3>- GPS & RS</h3>
+<h4>
+1. AS & SS <br> 
+2. SR & NMS<br>
+&nbsp;&nbsp AB<br>
+3. PK<br>
+4. PK
+</h4><br>
+
+<h3>- UPS & NKS</h3>
+<h4>
+1. AR<br> 
+2. AR<br>
+3. AR
+</h4><br>
+
+<h3>- GPS & AS</h3>
+<h4>
+1. AS<br> 
+2. AS
+</h4><br>
+
+<h3>- RK & KRV</h3>
+<h4>
+1. AS<br> 
+2. SP<br>
+3. AS 
+</h4><br>
+
+<h3>- NN & SR</h3>
+<h4>
+1. SS<br> 
+2. SS
+</h4><br>
+
+</body>
+</html>
