@@ -1,4 +1,0 @@
-This file is going to be deleted.
-
-This is a new line.
-This is another line afte doing git add .
