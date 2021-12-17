@@ -1,3 +1,16 @@
 Hello World This is a git demo. Line 1
 This is a new change in the file for the system. Hakunamatata  Line 2
 Made new changes today. 17/12/2021
+
+To Rename a branch - 
+
+git branch -m master <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
+
+exmaple :-
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
